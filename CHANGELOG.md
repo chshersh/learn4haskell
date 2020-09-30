@@ -1,5 +1,6 @@
 # Changelog
 
+
 `learn4haskell` uses [PVP Versioning][1].
 The changelog is available [on GitHub][2].
 
